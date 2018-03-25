@@ -16,11 +16,15 @@ The whole project is made using open source services.
 # APPLICATIONS USED
 
 For the front-end designing we have used NetBeans 8.2 along with JDK version 9.0.4.
+
 The back-end management is done using MySQl version 5.7.
+
 JDBC Driver has been used for the front-end and back-end connectivity.
 
 # CONTRIBUTORS
 
 Diksha Rana
+
 Amandeep Pooni
+
 Shivam Kapila
